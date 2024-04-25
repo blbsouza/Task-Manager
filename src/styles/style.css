@@ -1,0 +1,29 @@
+html {
+    overflow: hidden !important;
+}
+
+.w-10 {
+    width: 10% !important
+}
+
+.w-80 {
+    width: 80% !important
+}
+
+.w-15 {
+    width: 15% !important
+}
+
+.h-85 {
+    height: 85vh !important;
+}
+
+::-webkit-scrollbar {
+    width: 3px;
+    background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #1867C0;
+    border-radius: 10px;
+}
